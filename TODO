@@ -1,0 +1,13 @@
+
+
+--
+Spring boot API
+port 9000
+--
+React UI
+port 3000
+
+
+add jasper
+login (JWT)
+etc
